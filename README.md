@@ -1,114 +1,114 @@
+
 ![Matthew Freeman — Senior Software Engineer](./github-banner.png)
 
-I build software across the stack—from responsive, accessible React interfaces to Java backend services, APIs, and cloud infrastructure.
+<div align="center">
 
-My experience includes frontend technical leadership, enterprise application development, authentication, microservices, and modern engineering workflows.
+### SENIOR SOFTWARE ENGINEER
 
-I care about maintainable systems, thoughtful design, pragmatic technical decisions, and delivering software that solves real problems.
+**Full-Stack Systems · Software Architecture · AI-Driven Engineering**
 
----
+Building reliable software. Designing thoughtful systems.
+Using AI to push engineering forward.
 
-## What I Work With
+[![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
 
-| Area | Technologies & Practices |
-|---|---|
-| **Frontend** | React, TypeScript, JavaScript, CSS, Accessibility |
-| **Backend** | Java, Spring Boot, REST APIs, Microservices |
-| **Data** | PostgreSQL, SQL, Redis |
-| **Cloud & DevOps** | AWS, Docker, CI/CD, Git |
-| **Engineering** | System Design, Code Review, Testing, API Security |
-| **AI-Assisted Development** | AI Coding Agents, Automated Reviews, Agentic Workflows |
-
-## Engineering in the Age of AI
-
-**I use AI as part of my engineering process—not as something to hide.**
-
-I actively explore and apply AI-assisted development to accelerate implementation, investigate technical problems, review code, improve test coverage, and evaluate architectural approaches.
-
-I believe the value of an engineer increasingly lies in defining problems clearly, evaluating solutions critically, understanding system behavior, and ensuring the resulting software meets its requirements.
-
-My approach centers on:
-
-- **Architecture first:** Understand the requirements, constraints, and tradeoffs.
-- **AI-assisted implementation:** Use modern tools to accelerate development.
-- **Engineering validation:** Review the solution, test behavior, and verify requirements.
-- **Continuous improvement:** Refine both the software and the development process.
-
-**AI can accelerate the work. Engineering judgment determines its quality.**
+</div>
 
 ---
 
-## Featured Engineering 
+## 01 / THE ENGINEER
 
-### [BenchFlow](https://github.com/matthewfreeman821/benchflow)
+I am a senior software engineer working across frontend architecture, backend services, authentication, and cloud infrastructure.
 
-[![BenchFlow repair docket](https://raw.githubusercontent.com/matthewfreeman821/benchflow/main/docs/images/repair-docket.png)](https://github.com/matthewfreeman821/benchflow)
+My background combines enterprise engineering with modern AI-assisted workflows—from implementing React interfaces to designing API integrations and solving performance problems.
 
+**Engineering experience that matters:**
 
-**Repair Operations & Workflow Management**
-
-A repair-shop application designed around permissions, accountability, inventory, quality control, and operational workflows.
-
-Engineering highlights:
-- Permission-aware business processes
-- Inventory reservation and concurrency considerations
-- Quality checks and traceable operations
-- Revision checks and idempotent commands
-
-### [Shelf Sense](https://github.com/matthewfreeman821/shelf-sense)
-
-[![Shelf Sense library](https://raw.githubusercontent.com/matthewfreeman821/shelf-sense/main/docs/screenshots/library-desktop.png)](https://github.com/matthewfreeman821/shelf-sense)
-
-**Local-First Personal Library Management**
-
-A Windows-based application for organizing physical book collections without requiring cloud accounts or external metadata services.
-
-Engineering highlights:
-- Python and SQLite
-- Barcode scanning and optional OCR
-- Search and catalog management
-- Data import/export and local backups
-
-
-### [Author's Board](https://github.com/matthewfreeman821/authors-board)
-
-**Visual Story Planning & Worldbuilding | In Development**
-
-A local-first creative workspace for fiction writers, designed to bring characters, locations, and events together on an interactive visual board.
-
-Rather than scattering story details across notes and documents, Author's Board helps writers explore relationships, track narrative continuity, and maintain control over their fictional worlds.
-
-**Engineering Highlights:**
-
-- **Interactive Reference Board:** Organize connected characters, locations, and events spatially.
-- **Context-Aware Relationships:** Explore events and their directly linked story references.
-- **Data Integrity:** Separate author-defined facts from calculated information such as character ages.
-- **Local-First Architecture:** Python, SQLite, HTML, CSS, and JavaScript, without requiring cloud accounts.
-- **Reliable Data Management:** Persistence, recovery, restoration, and deliberate deletion workflows.
-- **AI-Assisted Engineering:** Development guided by explicit requirements, technical review, and verification.
-
-[Explore Author's Board →](https://github.com/matthewfreeman821/authors-board)
-
-*Currently in active development. The public repository contains the project overview; reviewed source code, screenshots, tests, and release documentation are forthcoming.*
-
-
-All of these projects are part of my ongoing exploration of AI-assisted software engineering and modern development practices.
+- Led frontend development across React-based applications.
+- Worked across Java/Spring Boot services and enterprise integrations.
+- Improved a slow API workflow from over five minutes to approximately three seconds using Redis caching.
+- Developed AI-powered application experiences and applied agentic workflows to software delivery.
 
 ---
 
-## Areas of Focus
+## 02 / HOW I ENGINEER WITH AI
 
-- Full-stack application architecture
-- React and TypeScript engineering
-- Java services and API integration
-- Authentication and cloud security
-- AI-assisted software delivery
-- Developer tooling and automation
+I don't hide AI use. I make it part of the engineering process.
+
+```text
+    REQUIREMENTS
+         │
+         ▼
+    ARCHITECTURE
+         │
+         ▼
+    AI-ASSISTED DEVELOPMENT
+         │
+         ▼
+    CODE REVIEW + VALIDATION
+         │
+         ▼
+    TESTING + REFINEMENT
+         │
+         ▼
+    DELIVERABLE SOFTWARE
+```
+
+**My principle:** AI can accelerate implementation. Engineering judgment determines whether the result is correct, maintainable, and fit for purpose.
 
 ---
 
-### Engineering Philosophy
+## 03 / FEATURED ENGINEERING
 
-*Build with purpose. Question assumptions. Validate results. Keep learning.*
+### [BENCHFLOW](https://github.com/matthewfreeman821/benchflow)
+**Repair Operations · Business Workflows · Reliability**
 
-**Software engineering is evolving. I'm evolving with it.**
+[![BenchFlow](https://raw.githubusercontent.com/matthewfreeman821/benchflow/main/docs/images/repair-docket.png)](https://github.com/matthewfreeman821/benchflow)
+
+`Python` `SQLite` `Workflow Design` `Authorization` `Testing`
+
+Permission-aware repair workflows involving inventory, quality control, and traceable business operations.
+
+**Explore:** [Source](https://github.com/matthewfreeman821/benchflow) · [Architecture](https://github.com/matthewfreeman821/benchflow/blob/main/ARCHITECTURE.md)
+
+---
+
+### [SHELF SENSE](https://github.com/matthewfreeman821/shelf-sense)
+**Local-First Software · Data Management · OCR**
+
+[![Shelf Sense](https://raw.githubusercontent.com/matthewfreeman821/shelf-sense/main/docs/screenshots/library-desktop.png)](https://github.com/matthewfreeman821/shelf-sense)
+
+`Python` `SQLite` `OCR` `Data Portability`
+
+A personal library management application with local persistence, barcode scanning, OCR-assisted cataloging, and backup workflows.
+
+**Explore:** [Source](https://github.com/matthewfreeman821/shelf-sense) · [Architecture](https://github.com/matthewfreeman821/shelf-sense/blob/main/ARCHITECTURE.md)
+
+---
+
+### [AUTHOR'S BOARD](https://github.com/matthewfreeman821/authors-board)
+**Visual Story Planning · Connected Data · In Development**
+
+`Python` `SQLite` `JavaScript` `Product Design`
+
+A visual workspace for fiction writers to organize characters, places, events, and relationships while maintaining narrative consistency.
+
+Designed around local-first data management, interconnected references, and preserving the distinction between author-entered information and calculated details.
+
+**Explore:** [Project Repository](https://github.com/matthewfreeman821/authors-board)
+
+*Active development. Public source and product previews forthcoming.*
+
+---
+
+<div align="center">
+
+### BUILD WITH PURPOSE. VALIDATE WITH EVIDENCE.
+
+**Engineering thoughtful software in an AI-driven world.**
+
+</div>
