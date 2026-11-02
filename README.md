@@ -1,8 +1,4 @@
 ![Matthew Freeman — Senior Software Engineer](./github-banner.png)
-# Matthew Freeman
-
-### Senior Software Engineer
-**Full-Stack Engineering · Software Architecture · AI-Assisted Development**
 
 I build software across the stack—from responsive, accessible React interfaces to Java backend services, APIs, and cloud infrastructure.
 
@@ -73,7 +69,30 @@ Engineering highlights:
 - Search and catalog management
 - Data import/export and local backups
 
-Both projects are part of my ongoing exploration of AI-assisted software engineering and modern development practices.
+
+### [Author's Board](https://github.com/matthewfreeman821/authors-board)
+
+**Visual Story Planning & Worldbuilding | In Development**
+
+A local-first creative workspace for fiction writers, designed to bring characters, locations, and events together on an interactive visual board.
+
+Rather than scattering story details across notes and documents, Author's Board helps writers explore relationships, track narrative continuity, and maintain control over their fictional worlds.
+
+**Engineering Highlights:**
+
+- **Interactive Reference Board:** Organize connected characters, locations, and events spatially.
+- **Context-Aware Relationships:** Explore events and their directly linked story references.
+- **Data Integrity:** Separate author-defined facts from calculated information such as character ages.
+- **Local-First Architecture:** Python, SQLite, HTML, CSS, and JavaScript, without requiring cloud accounts.
+- **Reliable Data Management:** Persistence, recovery, restoration, and deliberate deletion workflows.
+- **AI-Assisted Engineering:** Development guided by explicit requirements, technical review, and verification.
+
+[Explore Author's Board →](https://github.com/matthewfreeman821/authors-board)
+
+*Currently in active development. The public repository contains the project overview; reviewed source code, screenshots, tests, and release documentation are forthcoming.*
+
+
+All of these projects are part of my ongoing exploration of AI-assisted software engineering and modern development practices.
 
 ---
 
