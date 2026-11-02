@@ -1,3 +1,4 @@
+![Matthew Freeman — Senior Software Engineer](./github-banner.png)
 # Matthew Freeman
 
 ### Senior Software Engineer
