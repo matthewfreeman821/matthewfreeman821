@@ -42,9 +42,12 @@ My approach centers on:
 
 ---
 
-## Featured Engineering Projects
+## Featured Engineering 
 
 ### [BenchFlow](https://github.com/matthewfreeman821/benchflow)
+
+[![BenchFlow repair docket](https://raw.githubusercontent.com/matthewfreeman821/benchflow/main/docs/images/repair-docket.png)](https://github.com/matthewfreeman821/benchflow)
+
 
 **Repair Operations & Workflow Management**
 
@@ -57,6 +60,8 @@ Engineering highlights:
 - Revision checks and idempotent commands
 
 ### [Shelf Sense](https://github.com/matthewfreeman821/shelf-sense)
+
+[![Shelf Sense library](https://raw.githubusercontent.com/matthewfreeman821/shelf-sense/main/docs/screenshots/library-desktop.png)](https://github.com/matthewfreeman821/shelf-sense)
 
 **Local-First Personal Library Management**
 
