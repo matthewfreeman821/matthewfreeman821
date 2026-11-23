@@ -1,114 +1,59 @@
-
 ![Matthew Freeman — Senior Software Engineer](./github-banner.png)
 
-<div align="center">
+# Matthew Freeman
 
-### SENIOR SOFTWARE ENGINEER
+**Senior Software Engineer at Cognizant Technology Solutions**
+React & TypeScript · Java & Spring Boot · Enterprise AI-assisted engineering
 
-**Full-Stack Systems · Software Architecture · AI-Driven Engineering**
+[Explore my engineering portfolio](https://matthewfreeman821.github.io/) · [BenchFlow](https://github.com/matthewfreeman821/benchflow) · [Shelf Sense](https://github.com/matthewfreeman821/shelf-sense)
 
-Building reliable software. Designing thoughtful systems.
-Using AI to push engineering forward.
+I build enterprise interfaces, services, and integrations, with experience as a lead frontend/UI developer and React subject-matter expert. I progressed from contractor to Senior Software Engineer in approximately five years.
 
-[![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
+## Enterprise engineering
 
-</div>
+- Improved an API workflow from more than five minutes to approximately three seconds using Redis caching.
+- Delivered complex PayPal and card-payment integrations.
+- Implemented administrative authentication and account-management functionality.
+- Built frontend automated testing foundations and tooling to clean up backend cached data.
+- Designed an API Gateway/JWT-at-the-edge proposal, approved by the backend lead with broader review pending. This is an architectural proposal, not a deployed-system claim.
 
----
+These are professional experience summaries. Employer source, client details, and internal artifacts remain private; the performance result is not a public benchmark.
 
-## 01 / THE ENGINEER
+## How I work with AI
 
-I am a senior software engineer working across frontend architecture, backend services, authentication, and cloud infrastructure.
+I have used GitHub Copilot Enterprise since 2023 to accelerate development, evaluate solutions, and improve review quality. My workflow combines explicit acceptance criteria, bounded agent tasks, engineering review, and behavior-based verification. I investigate disagreements and reject unsupported findings; I own the final decision.
 
-My background combines enterprise engineering with modern AI-assisted workflows—from implementing React interfaces to designing API integrations and solving performance problems.
+The portfolio’s [Review Ops](https://matthewfreeman821.github.io/#review-ops) explores that engineering process. See the portfolio repository for its implementation and current development status.
 
-**Engineering experience that matters:**
+## Selected projects
 
-- Led frontend development across React-based applications.
-- Worked across Java/Spring Boot services and enterprise integrations.
-- Improved a slow API workflow from over five minutes to approximately three seconds using Redis caching.
-- Developed AI-powered application experiences and applied agentic workflows to software delivery.
+### [BenchFlow](https://github.com/matthewfreeman821/benchflow)
 
----
+A local repair-operations application built with **Python, FastAPI, SQLite, and JavaScript**. Typed commands, exact-version approvals, transaction-backed inventory reservations, revision checks, and idempotency make business rules explicit. Single-host Windows operation is an intentional limit; the app records payments and handovers without processing money.
 
-## 02 / HOW I ENGINEER WITH AI
+[Architecture and tradeoffs](https://github.com/matthewfreeman821/benchflow/blob/main/ARCHITECTURE.md) · [Concurrency and rollback tests](https://github.com/matthewfreeman821/benchflow/blob/main/backend/tests/test_domains.py)
 
-I don't hide AI use. I make it part of the engineering process.
+### [Shelf Sense](https://github.com/matthewfreeman821/shelf-sense)
 
-```text
-    REQUIREMENTS
-         │
-         ▼
-    ARCHITECTURE
-         │
-         ▼
-    AI-ASSISTED DEVELOPMENT
-         │
-         ▼
-    CODE REVIEW + VALIDATION
-         │
-         ▼
-    TESTING + REFINEMENT
-         │
-         ▼
-    DELIVERABLE SOFTWARE
-```
+A local-first book catalog built with **Python, FastAPI, SQLite, JavaScript, and optional Tesseract OCR**. Barcode and OCR results are suggestions for human review. CSV preview, backups, and explicit restore support data ownership. The app has no multi-user identity model and stays on loopback.
 
-**My principle:** AI can accelerate implementation. Engineering judgment determines whether the result is correct, maintainable, and fit for purpose.
+[Architecture and boundaries](https://github.com/matthewfreeman821/shelf-sense/blob/main/ARCHITECTURE.md) · [Acceptance tests](https://github.com/matthewfreeman821/shelf-sense/blob/main/tests/test_qa_acceptance.py) · [Limitations](https://github.com/matthewfreeman821/shelf-sense/blob/main/LIMITATIONS.md)
 
----
+### [Author’s Board](https://github.com/matthewfreeman821/authors-board) — in development
 
-## 03 / FEATURED ENGINEERING
+A visual story-planning workspace for characters, places, events, and relationships. Public overview available; source and product previews are being prepared. It is not presented as a finished release.
 
-### [BENCHFLOW](https://github.com/matthewfreeman821/benchflow)
-**Repair Operations · Business Workflows · Reliability**
+## Technical foundation
 
-[![BenchFlow](https://raw.githubusercontent.com/matthewfreeman821/benchflow/main/docs/images/repair-docket.png)](https://github.com/matthewfreeman821/benchflow)
+**Interfaces:** React, TypeScript, JavaScript, frontend architecture
+**Services and data:** Java, Spring Boot, REST APIs, SQL, PostgreSQL, Redis
+**Delivery and systems:** Microservices, Docker, CI/CD, authentication and authorization
+**AI engineering:** Copilot Enterprise, agent coordination, solution evaluation, review workflows
 
-`Python` `SQLite` `Workflow Design` `Authorization` `Testing`
+## Background
 
-Permission-aware repair workflows involving inventory, quality control, and traceable business operations.
+- B.S. in Mathematics & Quantitative Sciences, **4.0 GPA**.
+- **Nine years of military service**, including deployment to Iraq.
+- Contractor-to-senior progression, frontend leadership, and full-stack enterprise delivery.
 
-**Explore:** [Source](https://github.com/matthewfreeman821/benchflow) · [Architecture](https://github.com/matthewfreeman821/benchflow/blob/main/ARCHITECTURE.md)
-
----
-
-### [SHELF SENSE](https://github.com/matthewfreeman821/shelf-sense)
-**Local-First Software · Data Management · OCR**
-
-[![Shelf Sense](https://raw.githubusercontent.com/matthewfreeman821/shelf-sense/main/docs/screenshots/library-desktop.png)](https://github.com/matthewfreeman821/shelf-sense)
-
-`Python` `SQLite` `OCR` `Data Portability`
-
-A personal library management application with local persistence, barcode scanning, OCR-assisted cataloging, and backup workflows.
-
-**Explore:** [Source](https://github.com/matthewfreeman821/shelf-sense) · [Architecture](https://github.com/matthewfreeman821/shelf-sense/blob/main/ARCHITECTURE.md)
-
----
-
-### [AUTHOR'S BOARD](https://github.com/matthewfreeman821/authors-board)
-**Visual Story Planning · Connected Data · In Development**
-
-`Python` `SQLite` `JavaScript` `Product Design`
-
-A visual workspace for fiction writers to organize characters, places, events, and relationships while maintaining narrative consistency.
-
-Designed around local-first data management, interconnected references, and preserving the distinction between author-entered information and calculated details.
-
-**Explore:** [Project Repository](https://github.com/matthewfreeman821/authors-board)
-
-*Active development. Public source and product previews forthcoming.*
-
----
-
-<div align="center">
-
-### BUILD WITH PURPOSE. VALIDATE WITH EVIDENCE.
-
-**Engineering thoughtful software in an AI-driven world.**
-
-</div>
+[Explore the code, decisions, and evidence](https://matthewfreeman821.github.io/)
